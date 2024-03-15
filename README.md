@@ -1,1 +1,3 @@
 # .github
+
+JCPS organisation files
