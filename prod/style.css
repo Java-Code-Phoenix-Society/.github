@@ -13,6 +13,10 @@ body {
   background-origin: padding-box;
 }
 
+a {
+    color: red;
+}
+
 .bg-image {
   position: absolute;
   bottom: -88%;
